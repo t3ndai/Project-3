@@ -13,10 +13,20 @@
 		FE685BCF1C21B70500356589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE685BCD1C21B70500356589 /* Main.storyboard */; };
 		FE685BD11C21B70500356589 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE685BD01C21B70500356589 /* Assets.xcassets */; };
 		FE685BD41C21B70500356589 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE685BD21C21B70500356589 /* LaunchScreen.storyboard */; };
+		FE685BE61C21B8D400356589 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BDC1C21B8D400356589 /* nssl0033.jpg */; };
+		FE685BE71C21B8D400356589 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BDD1C21B8D400356589 /* nssl0034.jpg */; };
+		FE685BE81C21B8D400356589 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BDE1C21B8D400356589 /* nssl0041.jpg */; };
+		FE685BE91C21B8D400356589 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BDF1C21B8D400356589 /* nssl0042.jpg */; };
+		FE685BEA1C21B8D400356589 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE01C21B8D400356589 /* nssl0043.jpg */; };
+		FE685BEB1C21B8D400356589 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE11C21B8D400356589 /* nssl0045.jpg */; };
+		FE685BEC1C21B8D400356589 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE21C21B8D400356589 /* nssl0046.jpg */; };
+		FE685BED1C21B8D400356589 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE31C21B8D400356589 /* nssl0049.jpg */; };
+		FE685BEE1C21B8D400356589 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE41C21B8D400356589 /* nssl0051.jpg */; };
+		FE685BEF1C21B8D400356589 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE685BE51C21B8D400356589 /* nssl0091.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FE685BC41C21B70500356589 /* Project 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE685BC41C21B70500356589 /* Project 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE685BC71C21B70500356589 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE685BC91C21B70500356589 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 		FE685BCB1C21B70500356589 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +34,16 @@
 		FE685BD01C21B70500356589 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE685BD31C21B70500356589 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE685BD51C21B70500356589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE685BDC1C21B8D400356589 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		FE685BDD1C21B8D400356589 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		FE685BDE1C21B8D400356589 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		FE685BDF1C21B8D400356589 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		FE685BE01C21B8D400356589 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		FE685BE11C21B8D400356589 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		FE685BE21C21B8D400356589 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		FE685BE31C21B8D400356589 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		FE685BE41C21B8D400356589 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		FE685BE51C21B8D400356589 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +68,7 @@
 		FE685BC51C21B70500356589 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FE685BC41C21B70500356589 /* Project 1.app */,
+				FE685BC41C21B70500356589 /* Project 3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,16 +83,34 @@
 				FE685BD01C21B70500356589 /* Assets.xcassets */,
 				FE685BD21C21B70500356589 /* LaunchScreen.storyboard */,
 				FE685BD51C21B70500356589 /* Info.plist */,
+				FE685BDB1C21B8D400356589 /* Content */,
 			);
 			path = "Project 1";
+			sourceTree = "<group>";
+		};
+		FE685BDB1C21B8D400356589 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				FE685BDC1C21B8D400356589 /* nssl0033.jpg */,
+				FE685BDD1C21B8D400356589 /* nssl0034.jpg */,
+				FE685BDE1C21B8D400356589 /* nssl0041.jpg */,
+				FE685BDF1C21B8D400356589 /* nssl0042.jpg */,
+				FE685BE01C21B8D400356589 /* nssl0043.jpg */,
+				FE685BE11C21B8D400356589 /* nssl0045.jpg */,
+				FE685BE21C21B8D400356589 /* nssl0046.jpg */,
+				FE685BE31C21B8D400356589 /* nssl0049.jpg */,
+				FE685BE41C21B8D400356589 /* nssl0051.jpg */,
+				FE685BE51C21B8D400356589 /* nssl0091.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FE685BC31C21B70500356589 /* Project 1 */ = {
+		FE685BC31C21B70500356589 /* Project 3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FE685BD81C21B70500356589 /* Build configuration list for PBXNativeTarget "Project 1" */;
+			buildConfigurationList = FE685BD81C21B70500356589 /* Build configuration list for PBXNativeTarget "Project 3" */;
 			buildPhases = (
 				FE685BC01C21B70500356589 /* Sources */,
 				FE685BC11C21B70500356589 /* Frameworks */,
@@ -82,9 +120,9 @@
 			);
 			dependencies = (
 			);
-			name = "Project 1";
+			name = "Project 3";
 			productName = "Project 1";
-			productReference = FE685BC41C21B70500356589 /* Project 1.app */;
+			productReference = FE685BC41C21B70500356589 /* Project 3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +140,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FE685BBF1C21B70500356589 /* Build configuration list for PBXProject "Project 1" */;
+			buildConfigurationList = FE685BBF1C21B70500356589 /* Build configuration list for PBXProject "Project 3" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -115,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FE685BC31C21B70500356589 /* Project 1 */,
+				FE685BC31C21B70500356589 /* Project 3 */,
 			);
 		};
 /* End PBXProject section */
@@ -125,8 +163,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE685BE71C21B8D400356589 /* nssl0034.jpg in Resources */,
+				FE685BEE1C21B8D400356589 /* nssl0051.jpg in Resources */,
 				FE685BD41C21B70500356589 /* LaunchScreen.storyboard in Resources */,
+				FE685BEA1C21B8D400356589 /* nssl0043.jpg in Resources */,
+				FE685BE61C21B8D400356589 /* nssl0033.jpg in Resources */,
+				FE685BEB1C21B8D400356589 /* nssl0045.jpg in Resources */,
+				FE685BEC1C21B8D400356589 /* nssl0046.jpg in Resources */,
+				FE685BED1C21B8D400356589 /* nssl0049.jpg in Resources */,
+				FE685BE91C21B8D400356589 /* nssl0042.jpg in Resources */,
 				FE685BD11C21B70500356589 /* Assets.xcassets in Resources */,
+				FE685BEF1C21B8D400356589 /* nssl0091.jpg in Resources */,
+				FE685BE81C21B8D400356589 /* nssl0041.jpg in Resources */,
 				FE685BCF1C21B70500356589 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,7 +302,7 @@
 				INFOPLIST_FILE = "Project 1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Dzonga-Prince.hackingWithSwift.Project-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project 3";
 			};
 			name = Debug;
 		};
@@ -265,14 +313,15 @@
 				INFOPLIST_FILE = "Project 1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Dzonga-Prince.hackingWithSwift.Project-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project 3";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FE685BBF1C21B70500356589 /* Build configuration list for PBXProject "Project 1" */ = {
+		FE685BBF1C21B70500356589 /* Build configuration list for PBXProject "Project 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FE685BD61C21B70500356589 /* Debug */,
@@ -281,13 +330,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FE685BD81C21B70500356589 /* Build configuration list for PBXNativeTarget "Project 1" */ = {
+		FE685BD81C21B70500356589 /* Build configuration list for PBXNativeTarget "Project 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FE685BD91C21B70500356589 /* Debug */,
 				FE685BDA1C21B70500356589 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

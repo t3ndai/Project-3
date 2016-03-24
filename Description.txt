@@ -1,0 +1,5 @@
+Same as Project 1 but share images to social media 
+Concepts:
+UIBarButtonItem,
+UIActivityViewController,
+NSURL 
